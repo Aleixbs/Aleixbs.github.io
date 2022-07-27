@@ -41,4 +41,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 <a href="[https://www.example.com/my great page](https://drive.google.com/drive/folders/1o0KN9ClLykBh_MC-697dL8OLPpQzO3BQ)">link</a>
 
-![Mapa de la distribució de la renda per nivell d'estudis](src= img/rbp arcgis.png)
+![Mapa de la distribució de la renda per nivell d'estudis](src= img/morans i getisord.png)

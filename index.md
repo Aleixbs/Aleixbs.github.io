@@ -40,3 +40,5 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 [link]([https://www.example.com/my%20great%20page](https://drive.google.com/drive/folders/1o0KN9ClLykBh_MC-697dL8OLPpQzO3BQ))
 
 <a href="[https://www.example.com/my great page](https://drive.google.com/drive/folders/1o0KN9ClLykBh_MC-697dL8OLPpQzO3BQ)">link</a>
+
+![Mapa de la distribució de la renda per nivell d'estudis](https://drive.google.com/drive/folders/1o0KN9ClLykBh_MC-697dL8OLPpQzO3BQ))

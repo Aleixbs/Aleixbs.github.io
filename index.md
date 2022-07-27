@@ -41,5 +41,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 <a href="[https://www.example.com/my great page](https://drive.google.com/drive/folders/1o0KN9ClLykBh_MC-697dL8OLPpQzO3BQ)">link</a>
 
-![Mapa de la distribució de la renda per nivell d'estudis](src=img/morans_i_getisord.png) 
-](https://github.com/Aleixbs/Aleixbs.github.io/blob/62242659b8768cbf85ab72270d2c382eac6363f4/img/morans%20i%20getisord.png))
+![Mapa de la distribució de la renda per nivell d'estudis](src=https://github.com/Aleixbs/Aleixbs.github.io/blob/62242659b8768cbf85ab72270d2c382eac6363f4/img/morans%20i%20getisord.png)
